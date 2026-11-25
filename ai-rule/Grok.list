@@ -1,0 +1,8 @@
+# NAME: Grok
+# UPDATED: 2026-11-25
+# SOURCE: https://docs.x.ai/grok/faq
+# REFERENCE: https://github.com/nintutu1015/fintech-rule/blob/main/rule/Loon/Grok/Grok.list
+# TOTAL: 2
+# 仅维护服务专属域名；共享登录、CDN 和通用基础设施按需通过其他策略处理。
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai

@@ -1,0 +1,10 @@
+# NAME: Claude
+# UPDATED: 2026-11-25
+# SOURCE: https://support.claude.com/en/articles/13065128-claude-in-chrome-admin-controls
+# REFERENCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Loon/Claude/Claude.list
+# TOTAL: 4
+# 仅维护服务专属域名；共享登录、CDN 和通用基础设施按需通过其他策略处理。
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,anthropic.com
